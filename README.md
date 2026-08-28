@@ -239,4 +239,4 @@ Ghost に存在しない記事は `console.warn` でログを出力し、該当�
 
 ## License
 
-MIT
+まだない。
